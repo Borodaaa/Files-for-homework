@@ -1,0 +1,23 @@
+<svg width="1000" height="1000">
+        <ellipse cx="35%" cy="50%" rx="85" ry="30" fill="grey" opacity="0.3"></ellipse>
+        <ellipse cx="65%" cy="50%" rx="85" ry="30" fill="grey" opacity="0.3"></ellipse>
+        <circle r="120" cx="65%" cy="38%" fill="#ffd700"></circle>
+        <circle r="120" cx="35%" cy="38%" fill="orange"></circle>
+        <circle r="46" cx="35%" cy="35%" fill="white"></circle>
+        <circle r="46" cx="41%" cy="35%" fill="white"></circle>
+        <circle r="46" cx="59%" cy="35%" fill="white"></circle>
+        <circle r="46" cx="65%" cy="35%" fill="white"></circle>
+        <circle r="10" cx="36%" cy="35%" fill="black"></circle>
+        <circle r="10" cx="42%" cy="35%" fill="black"></circle>
+        <circle r="10" cx="58%" cy="35%" fill="black"></circle>
+        <circle r="10" cx="64%" cy="35%" fill="black"></circle>
+        <circle r="15" cx="38%" cy="40%" fill="black"></circle>
+        <ellipse cx="36%" cy="44%" rx="23" ry="10" fill="#dc143c" opacity="1"></ellipse>
+        <ellipse cx="62%" cy="44%" rx="10" ry="23" fill="#dc143c" opacity="1"></ellipse>
+        <ellipse cx="28%" cy="34%" rx="80" ry="32" fill="orange" opacity="1" transform="rotate(15)"></ellipse>
+        <polygon points="403,236 416,281 353,266" fill="orange" transform="rotate()"></polygon>
+        <polygon points="263,248 263,297 319,269" fill="orange" transform="rotate()"></polygon>
+        <polygon points="270,257 270,297 310,272" fill="black" transform="rotate()"></polygon>
+        <polygon points="400,245 410,281 365,266" fill="black" transform="rotate()"></polygon>
+        <polygon points="110,380 140,370 127,405" fill="white" transform="rotate()"></polygon>
+    </svg>
